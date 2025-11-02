@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "classic_operations",
+]
+
+resolver = "3"
